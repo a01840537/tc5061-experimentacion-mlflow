@@ -1,0 +1,13 @@
+# Datos (no se versionan)
+data/
+
+# MLflow
+mlruns/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
